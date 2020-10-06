@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue Li on Yue Li&#39;s Homepage</title>
+    <link>yuelicmu.github.io/</link>
+    <description>Recent content in Yue Li on Yue Li&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="yuelicmu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>yuelicmu.github.io/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>yuelicmu.github.io/misc/</guid>
+      <description> [2017] I became an active member of Statistics Queens Association in Carnegie Mellon University, a quite official, serious and professional Pittsburgh-based restaurant exploring group found by Yufei Yi with 8 members. [2019] I listen to New Pants when I am happy or unhappy. [2020] Trying to take more fresh air to stay healthy and calm.  </description>
+    </item>
+    
+    <item>
+      <title>Yue Li</title>
+      <link>yuelicmu.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>yuelicmu.github.io/about/</guid>
+      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+    </item>
+    
+  </channel>
+</rss>
